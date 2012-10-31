@@ -1,0 +1,7 @@
+# Just a very simple, crude cmd-line app.
+
+https://github.com/tnajdek/sc2ranks-example.git
+git submodule init
+git submodule update
+
+./apitest.py
